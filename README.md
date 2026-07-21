@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="assets/kiro-icon.png" alt="Kiro" width="120" height="120">
+  <img src="assets/kiro-icon.png" alt="Kiro" width="160" height="160">
   
   # Kiro
   
