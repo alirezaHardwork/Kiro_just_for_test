@@ -1,6 +1,4 @@
-<div align="left">
-  <img src="assets/kiro-icon.png" alt="Kiro" width="560" height="560">
-  
+x  
   # Kiro
   
   Kiro is an agentic IDE and command-line interface that helps you go from prototype to production with spec-driven development, agent hooks,powers, and natural language coding assistance. Build faster with AI-powered features that understand your entire codebase, turn prompts into structured specs, and automate repetitive tasks.
